@@ -1,10 +1,4 @@
-public class Test {
 
-    // Addition
-    static void add(int a, int b) {
-        int res = a + b;
-        System.out.println("Addition result: " + res);
-    }
 
     // Subtraction
     static void sub(int a, int b) {
